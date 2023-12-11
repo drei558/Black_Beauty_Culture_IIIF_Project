@@ -5,11 +5,11 @@
   "label" : "For Love of Black Beauty and Fashion: Black Material Culture as Art",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "A sampling of Black material culture that highlights the artistic diversity of Black fashion and beauty cultures. Data is pulled from the Open Access digital collections at the National Museum of African American History & Cultures. ",
+    "@value" : "A sampling of Black material culture that highlights the artistic diversity of Black fashion and beauty cultures. Data originally from the National Museum of African American History & Cultures' open access digital collections.",
     "@language" : "en"
   } ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+  "attribution" : "Copyright Dana Reijerkerk",
   "sequences" : [ {
     "@id" : "http://5e925580-de3c-47a6-a173-f76ec95e2078",
     "@type" : "sc:Sequence",
@@ -44,8 +44,7 @@
           "width" : 4357
         },
         "on" : "http://91c65b6d-f526-4381-9164-e603c72c8c69"
-      } ],
-      "related" : "Data Source: National Museum of African American History and Culture"
+      } ]
     }, {
       "@id" : "http://a5c2e30d-7855-4523-bd85-17dbaa996f18",
       "@type" : "sc:Canvas",
@@ -73,8 +72,7 @@
           "width" : 4140
         },
         "on" : "http://a5c2e30d-7855-4523-bd85-17dbaa996f18"
-      } ],
-      "related" : "Data Source: National Museum of African American History and Culture"
+      } ]
     }, {
       "@id" : "http://76bdb46b-3af5-43bd-9cb0-ac42a8ab8a34",
       "@type" : "sc:Canvas",
@@ -102,8 +100,7 @@
           "width" : 5627
         },
         "on" : "http://76bdb46b-3af5-43bd-9cb0-ac42a8ab8a34"
-      } ],
-      "related" : "Data Source: National Museum of African American History and Culture"
+      } ]
     }, {
       "@id" : "http://07865b59-4779-4b7d-8160-b844e1002e8c",
       "@type" : "sc:Canvas",
@@ -131,8 +128,7 @@
           "width" : 4821
         },
         "on" : "http://07865b59-4779-4b7d-8160-b844e1002e8c"
-      } ],
-      "related" : "Data Source: National Museum of African American History and Culture"
+      } ]
     }, {
       "@id" : "http://355efafc-e0ed-4790-bf8c-cd1f40555c44",
       "@type" : "sc:Canvas",
@@ -160,8 +156,7 @@
           "width" : 5730
         },
         "on" : "http://355efafc-e0ed-4790-bf8c-cd1f40555c44"
-      } ],
-      "related" : "Data Source: National Museum of African American History and Culture"
+      } ]
     }, {
       "@id" : "http://bc6ab3c6-af72-4123-872f-5d534eb137dd",
       "@type" : "sc:Canvas",
@@ -189,8 +184,7 @@
           "width" : 4547
         },
         "on" : "http://bc6ab3c6-af72-4123-872f-5d534eb137dd"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://5e5090c6-891b-4ea1-ba3a-9c5bc629f528",
       "@type" : "sc:Canvas",
@@ -218,8 +212,7 @@
           "width" : 5755
         },
         "on" : "http://5e5090c6-891b-4ea1-ba3a-9c5bc629f528"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://10d29614-c64c-4a83-a77f-1188606365f1",
       "@type" : "sc:Canvas",
@@ -247,8 +240,7 @@
           "width" : 6703
         },
         "on" : "http://10d29614-c64c-4a83-a77f-1188606365f1"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://2d3cbc4b-5249-413a-bb79-6bce2c9f2bdd",
       "@type" : "sc:Canvas",
@@ -276,8 +268,7 @@
           "width" : 3436
         },
         "on" : "http://2d3cbc4b-5249-413a-bb79-6bce2c9f2bdd"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6",
       "@type" : "sc:Canvas",
@@ -305,8 +296,7 @@
           "width" : 3585
         },
         "on" : "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://fa5dc387-8f15-4446-9c5d-32f6b7c96086",
       "@type" : "sc:Canvas",
@@ -334,8 +324,7 @@
           "width" : 4841
         },
         "on" : "http://fa5dc387-8f15-4446-9c5d-32f6b7c96086"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://02600d8c-4953-42fe-af3c-b34132810c2d",
       "@type" : "sc:Canvas",
@@ -363,8 +352,7 @@
           "width" : 2849
         },
         "on" : "http://02600d8c-4953-42fe-af3c-b34132810c2d"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://16fc9889-8dfc-48c2-96f7-e35c68fd50d4",
       "@type" : "sc:Canvas",
@@ -392,8 +380,7 @@
           "width" : 3252
         },
         "on" : "http://16fc9889-8dfc-48c2-96f7-e35c68fd50d4"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://2cf627df-c9f0-4c11-8247-b6df08f66dac",
       "@type" : "sc:Canvas",
@@ -421,8 +408,7 @@
           "width" : 9834
         },
         "on" : "http://2cf627df-c9f0-4c11-8247-b6df08f66dac"
-      } ],
-      "related" : ""
+      } ]
     }, {
       "@id" : "http://c2b11021-6001-48e4-afda-48b324871fa8",
       "@type" : "sc:Canvas",
@@ -450,9 +436,24 @@
           "width" : 4485
         },
         "on" : "http://c2b11021-6001-48e4-afda-48b324871fa8"
-      } ],
-      "related" : ""
+      } ]
     } ]
   } ],
-  "structures" : [ ]
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://91c65b6d-f526-4381-9164-e603c72c8c69", "http://a5c2e30d-7855-4523-bd85-17dbaa996f18", "http://76bdb46b-3af5-43bd-9cb0-ac42a8ab8a34", "http://07865b59-4779-4b7d-8160-b844e1002e8c", "http://355efafc-e0ed-4790-bf8c-cd1f40555c44", "http://bc6ab3c6-af72-4123-872f-5d534eb137dd", "http://5e5090c6-891b-4ea1-ba3a-9c5bc629f528", "http://10d29614-c64c-4a83-a77f-1188606365f1", "http://2d3cbc4b-5249-413a-bb79-6bce2c9f2bdd", "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6", "http://fa5dc387-8f15-4446-9c5d-32f6b7c96086", "http://02600d8c-4953-42fe-af3c-b34132810c2d", "http://16fc9889-8dfc-48c2-96f7-e35c68fd50d4", "http://2cf627df-c9f0-4c11-8247-b6df08f66dac", "http://c2b11021-6001-48e4-afda-48b324871fa8" ]
+  } ],
+  "viewingHint" : "paged",
+  "thumbnail" : {
+    "@id" : "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6"
+  },
+  "viewingDirection" : "left-to-right"
 }
