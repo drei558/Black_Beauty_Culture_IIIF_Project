@@ -1,0 +1,167 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest2.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Three Glimpses of Black Femininity" ]
+  },
+  "summary" : {
+    "en" : [ "A subset of the \"For Love of Black Beauty and Fashion\" Manifest. The curated images offer glimpses into historical imaginings of African American femininity. " ]
+  },
+  "rights" : "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "navDate" : "2023-12-11T05:00:00.000Z",
+  "items" : [ {
+    "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/09e8ed1c-b7a5-4d13-929c-cf7dac86f3c6",
+    "type" : "Canvas",
+    "height" : 5259,
+    "width" : 6703,
+    "label" : {
+      "en" : [ "Film still for Cabin in the Sky" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "National Museum of African American History and Culture" ]
+      }
+    } ],
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "items" : [ {
+      "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/09e8ed1c-b7a5-4d13-929c-cf7dac86f3c6/annotation-page/49b51bae-7120-4835-a8a0-6b66454b6eaf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/annotation/55f0968e-018c-4f84-998a-87b3d7256890",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/09e8ed1c-b7a5-4d13-929c-cf7dac86f3c6",
+        "body" : {
+          "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_118_160_5_001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5259,
+          "width" : 6703,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_118_160_5_001",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 6703,
+            "height" : 5259,
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ],
+              "height" : 512
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ],
+            "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_118_160_5_001"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/bae01d59-e2e5-4bc4-97c8-ca41bff6ac2a",
+    "type" : "Canvas",
+    "height" : 6737,
+    "width" : 4485,
+    "label" : {
+      "en" : [ "Peach dress and belt worn by Oprah Winfrey on The Oprah Winfrey Show" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "National Museum of African American History and Culture" ]
+      }
+    } ],
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "items" : [ {
+      "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/bae01d59-e2e5-4bc4-97c8-ca41bff6ac2a/annotation-page/015670a2-6ccb-421d-b35b-44c7aa883088",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/annotation/66ee15b0-b253-4db1-bf9f-6742a41eceee",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/bae01d59-e2e5-4bc4-97c8-ca41bff6ac2a",
+        "body" : {
+          "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_7_2ab_5001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 6737,
+          "width" : 4485,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_7_2ab_5001",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 4485,
+            "height" : 6737,
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ],
+              "height" : 512
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ],
+            "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_7_2ab_5001"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/8723dcd8-b522-45d5-8b7a-82dd35aff47a",
+    "type" : "Canvas",
+    "height" : 5821,
+    "width" : 5627,
+    "label" : {
+      "en" : [ "Woven basket with floral design" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "National Museum of African American History and Culture" ]
+      }
+    } ],
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "items" : [ {
+      "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/8723dcd8-b522-45d5-8b7a-82dd35aff47a/annotation-page/5f226df2-a887-4757-b480-fb4d92d59aee",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/annotation/d743b0c1-f3dd-481a-bd6c-4ce9fb3f5876",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1e79ae78-b9a0-4f3a-a677-b9a7821a6698/canvas/8723dcd8-b522-45d5-8b7a-82dd35aff47a",
+        "body" : {
+          "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2010_6_30_001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5821,
+          "width" : 5627,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2010_6_30_001",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 5627,
+            "height" : 5821,
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8 ],
+              "height" : 512
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ],
+            "id" : "https://ids.si.edu/ids/iiif/NMAAHC-2010_6_30_001"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
