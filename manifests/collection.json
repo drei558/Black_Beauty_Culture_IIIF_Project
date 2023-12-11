@@ -1,0 +1,13 @@
+{
+  "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in drei558/Black_Beauty_Culture_IIIF_Project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest.json",
+    "label" : "For Love of Black Beauty and Fashion: Black Material Culture as Art"
+  } ]
+}
