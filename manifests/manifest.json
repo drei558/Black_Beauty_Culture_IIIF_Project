@@ -1,0 +1,458 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "For Love of Black Beauty and Fashion: Black Material Culture as Art",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A sampling of Black material culture that highlights the artistic diversity of Black fashion and beauty cultures. Data is pulled from the Open Access digital collections at the National Museum of African American History & Cultures. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://5e925580-de3c-47a6-a173-f76ec95e2078",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://91c65b6d-f526-4381-9164-e603c72c8c69",
+      "@type" : "sc:Canvas",
+      "label" : "Metal hatpin with rhinestones and silver beads from Mae's Millinery Shop",
+      "height" : 3863,
+      "width" : 4357,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e6d8cbcb-7dfd-4d7f-a724-3a189973828f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-72882E89DAFC2_5001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-72882E89DAFC2_5001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 3863,
+          "width" : 4357
+        },
+        "on" : "http://91c65b6d-f526-4381-9164-e603c72c8c69"
+      } ],
+      "related" : "Data Source: National Museum of African American History and Culture"
+    }, {
+      "@id" : "http://a5c2e30d-7855-4523-bd85-17dbaa996f18",
+      "@type" : "sc:Canvas",
+      "label" : "Ebony Vol. IV No. 12",
+      "height" : 5246,
+      "width" : 4140,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af4874b8-74df-4eef-af1f-4187d09d4945",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2011_35_1_11_006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2011_35_1_11_006",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 5246,
+          "width" : 4140
+        },
+        "on" : "http://a5c2e30d-7855-4523-bd85-17dbaa996f18"
+      } ],
+      "related" : "Data Source: National Museum of African American History and Culture"
+    }, {
+      "@id" : "http://76bdb46b-3af5-43bd-9cb0-ac42a8ab8a34",
+      "@type" : "sc:Canvas",
+      "label" : "Woven basket purse with floral design from Mae's Millinery Shop",
+      "height" : 5821,
+      "width" : 5627,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://45a50fa3-aa12-4ae4-837e-b95f58420bb5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2010_6_30_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2010_6_30_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 5821,
+          "width" : 5627
+        },
+        "on" : "http://76bdb46b-3af5-43bd-9cb0-ac42a8ab8a34"
+      } ],
+      "related" : "Data Source: National Museum of African American History and Culture"
+    }, {
+      "@id" : "http://07865b59-4779-4b7d-8160-b844e1002e8c",
+      "@type" : "sc:Canvas",
+      "label" : "Photograph of Madam C.J. Walker",
+      "height" : 7103,
+      "width" : 4821,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9785b4c7-0304-4b5a-8ec4-9bd05a01ac27",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_153_8_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_153_8_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 7103,
+          "width" : 4821
+        },
+        "on" : "http://07865b59-4779-4b7d-8160-b844e1002e8c"
+      } ],
+      "related" : "Data Source: National Museum of African American History and Culture"
+    }, {
+      "@id" : "http://355efafc-e0ed-4790-bf8c-cd1f40555c44",
+      "@type" : "sc:Canvas",
+      "label" : "Yellow pearl bracelet from Mae's Millinery Shop",
+      "height" : 4320,
+      "width" : 5730,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8ff11f4e-2ee9-4078-9103-94f27c698662",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-EEF2BA5F0C4B2_5001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-EEF2BA5F0C4B2_5001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 4320,
+          "width" : 5730
+        },
+        "on" : "http://355efafc-e0ed-4790-bf8c-cd1f40555c44"
+      } ],
+      "related" : "Data Source: National Museum of African American History and Culture"
+    }, {
+      "@id" : "http://bc6ab3c6-af72-4123-872f-5d534eb137dd",
+      "@type" : "sc:Canvas",
+      "label" : "Cellulose nitrate powder box from dresser set owned by Lena Horne",
+      "height" : 3697,
+      "width" : 4547,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2998f5cc-b16a-452f-88fe-27fd830cc656",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2011_27_2_11a_6001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2011_27_2_11a_6001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 3697,
+          "width" : 4547
+        },
+        "on" : "http://bc6ab3c6-af72-4123-872f-5d534eb137dd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5e5090c6-891b-4ea1-ba3a-9c5bc629f528",
+      "@type" : "sc:Canvas",
+      "label" : "Cheetah print jacket designed by Willi Smith",
+      "height" : 7194,
+      "width" : 5755,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f2e73d36-798e-468f-acaa-93318d8c92fd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2007_3_153_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2007_3_153_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 7194,
+          "width" : 5755
+        },
+        "on" : "http://5e5090c6-891b-4ea1-ba3a-9c5bc629f528"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://10d29614-c64c-4a83-a77f-1188606365f1",
+      "@type" : "sc:Canvas",
+      "label" : "Film still for Cabin in the Sky",
+      "height" : 5259,
+      "width" : 6703,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://33e86d59-11df-42ef-a252-dbc6a5a9ec3c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_118_160_5_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2013_118_160_5_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 5259,
+          "width" : 6703
+        },
+        "on" : "http://10d29614-c64c-4a83-a77f-1188606365f1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2d3cbc4b-5249-413a-bb79-6bce2c9f2bdd",
+      "@type" : "sc:Canvas",
+      "label" : "Carte-de-visite of a young woman",
+      "height" : 5004,
+      "width" : 3436,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://da2b651b-0bfc-45dd-b31f-261b50441936",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2020_10_10_14_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2020_10_10_14_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 5004,
+          "width" : 3436
+        },
+        "on" : "http://2d3cbc4b-5249-413a-bb79-6bce2c9f2bdd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6",
+      "@type" : "sc:Canvas",
+      "label" : "String of glass millefiori beads",
+      "height" : 3648,
+      "width" : 3585,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f808ac3-3b39-4d78-a2a8-af5cb3d86932",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2FF165F396CD2_5001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2FF165F396CD2_5001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 3648,
+          "width" : 3585
+        },
+        "on" : "http://38ba735d-c93f-4d6b-97bb-4e39dedd3aa6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fa5dc387-8f15-4446-9c5d-32f6b7c96086",
+      "@type" : "sc:Canvas",
+      "label" : "Red, yellow, blue, and white Madras headdress",
+      "height" : 3885,
+      "width" : 4841,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a32cb233-efd8-4ef8-aff3-47e04bcf781d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2015_153_4004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2015_153_4004",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 3885,
+          "width" : 4841
+        },
+        "on" : "http://fa5dc387-8f15-4446-9c5d-32f6b7c96086"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://02600d8c-4953-42fe-af3c-b34132810c2d",
+      "@type" : "sc:Canvas",
+      "label" : "Jar for Carol's Daughter Healthy Hair Butter",
+      "height" : 3000,
+      "width" : 2849,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b913b9e-a804-4b00-b21b-955c1fb9807d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2014_269_4002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2014_269_4002",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 3000,
+          "width" : 2849
+        },
+        "on" : "http://02600d8c-4953-42fe-af3c-b34132810c2d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://16fc9889-8dfc-48c2-96f7-e35c68fd50d4",
+      "@type" : "sc:Canvas",
+      "label" : "Carte-de-visite of a woman in Martinique",
+      "height" : 4644,
+      "width" : 3252,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://683f276f-6d89-4738-b132-97f6083d8b57",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2020_10_7_4_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2020_10_7_4_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 4644,
+          "width" : 3252
+        },
+        "on" : "http://16fc9889-8dfc-48c2-96f7-e35c68fd50d4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2cf627df-c9f0-4c11-8247-b6df08f66dac",
+      "@type" : "sc:Canvas",
+      "label" : "Hat, leather jacket, and leather pants worn by Rakim",
+      "height" : 12183,
+      "width" : 9834,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c65cb1a-6f8b-49fb-9ab9-4f950dd8f01a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_10_2_001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_10_2_001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 12183,
+          "width" : 9834
+        },
+        "on" : "http://2cf627df-c9f0-4c11-8247-b6df08f66dac"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c2b11021-6001-48e4-afda-48b324871fa8",
+      "@type" : "sc:Canvas",
+      "label" : "Peach dress and belt worn by Oprah Winfrey on The Oprah Winfrey Show",
+      "height" : 6737,
+      "width" : 4485,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f07ba7ce-ed9f-400a-918e-301aeba65ecf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_7_2ab_5001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.si.edu/ids/iiif/NMAAHC-2016_7_2ab_5001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "supports" : [ "sizeByH", "sizeByW", "sizeByForcedWh" ]
+            } ]
+          },
+          "height" : 6737,
+          "width" : 4485
+        },
+        "on" : "http://c2b11021-6001-48e4-afda-48b324871fa8"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
