@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest3.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "African American History As Told By the Black Community" ]
+  },
+  "summary" : {
+    "en" : [ "A sampling of videos from the Internet Archive of African Americans talking about their communities. " ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/b92bbd9d-8860-49ac-919d-b8bbe2803d24",
+    "type" : "Canvas",
+    "height" : 240,
+    "width" : 320,
+    "duration" : 976.476476,
+    "label" : {
+      "en" : [ "Teddy " ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "Internet Archive" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "Presents the experiences of a teenage African American, who relates his views of the System, war, revolution, the Watts community of Los Angeles, the Black Panther Party and the police. The importance of the discussion is the necessity of being one's own self. Director: Richard Wells. Editor: Andrew Stein. Photographer: Robert Grant. Sound: Wendell Handy. Assistant Camera: Clifford Stewart. Production Manager: Edward Kutner. Assistant Production Manager: Gene Kopp. Executive Producer: George Schlosser. Producer: Peter Schnitzler." ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/b92bbd9d-8860-49ac-919d-b8bbe2803d24/annotation-page/33d3c147-2e6b-425a-bede-45b1fcfeac88",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/annotation/41ffa5c2-af64-465f-b7a5-8a3b789bee25",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/b92bbd9d-8860-49ac-919d-b8bbe2803d24",
+        "body" : {
+          "id" : "https://archive.org/download/Teddy1971/Teddy1971_512kb.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 240,
+          "width" : 320,
+          "duration" : 976.476476
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/37810a27-440f-48e3-803b-b35863c0fb89",
+    "type" : "Canvas",
+    "height" : 720,
+    "width" : 1280,
+    "duration" : 4579.358125,
+    "label" : {
+      "en" : [ "The Great Migration" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "Internet Archive" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "Little Brothers - Friends of the Elderly hosts a discussion featuring Dr. Michelle S. Johnson on the Great Migration, as more than six million African Americans sought relief from multiple constraints in the South and relocated to the North, Midwest, and West. This program was recorded by Chicago Access Network Television (CAN TV)." ]
+    },
+    "rights" : "http://creativecommons.org/licenses/by-nd/4.0/",
+    "items" : [ {
+      "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/37810a27-440f-48e3-803b-b35863c0fb89/annotation-page/2401eeee-d038-4de2-90b1-5ba7bca5799f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/annotation/c3710343-2cd6-4ae9-99ab-a773929dd6a3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/37810a27-440f-48e3-803b-b35863c0fb89",
+        "body" : {
+          "id" : "https://archive.org/download/738062WEB/738062%20WEB.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 720,
+          "width" : 1280,
+          "duration" : 4579.358125
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/248dc3e3-1124-4f4f-947b-18654f0159b0",
+    "type" : "Canvas",
+    "height" : 540,
+    "width" : 720,
+    "duration" : 2481.045,
+    "label" : {
+      "en" : [ "Robert Curvin Interview: Gloria Buck" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Data Source" ]
+      },
+      "value" : {
+        "en" : [ "Internet Archive" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "Oral history interview about Gloria Buck and her life." ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/248dc3e3-1124-4f4f-947b-18654f0159b0/annotation-page/80940faf-6439-4266-8cce-903735a751a4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/annotation/7ef9241e-2679-42ec-a2cc-9d2843469a31",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/0e2a7ae8-160b-4f56-85f4-12d2bd7be8e8/canvas/248dc3e3-1124-4f4f-947b-18654f0159b0",
+        "body" : {
+          "id" : "https://archive.org/download/CurvinInterviewsBuck/Buck.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 540,
+          "width" : 720,
+          "duration" : 2481.045
+        }
+      } ]
+    } ]
+  } ]
+}
