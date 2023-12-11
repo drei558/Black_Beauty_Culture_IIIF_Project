@@ -1,0 +1,66 @@
+{
+  "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in drei558/Black_Beauty_Culture_IIIF_Project project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3959,
+    "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002/canvas/",
+    "label" : {
+      "none" : [ "NMAAHC-24C75E5DDD912_4002" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 124,
+              "height" : 93
+            }, {
+              "width" : 248,
+              "height" : 185
+            }, {
+              "width" : 495,
+              "height" : 370
+            }, {
+              "width" : 990,
+              "height" : 739
+            }, {
+              "width" : 1980,
+              "height" : 1477
+            }, {
+              "width" : 3959,
+              "height" : 2954
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3959,
+            "@id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2954
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3959,
+          "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2954
+        },
+        "target" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/images/NMAAHC-24C75E5DDD912_4002/canvas/"
+      } ]
+    } ],
+    "height" : 2954
+  } ]
+}
