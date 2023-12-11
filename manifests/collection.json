@@ -15,5 +15,11 @@
       "en" : [ "Three Glimpses of Black Femininity" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest3.json",
+    "label" : {
+      "en" : [ "African American History As Told By the Black Community" ]
+    },
+    "type" : "Manifest"
   } ]
 }
