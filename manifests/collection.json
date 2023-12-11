@@ -9,5 +9,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest.json",
     "label" : "For Love of Black Beauty and Fashion: Black Material Culture as Art"
+  }, {
+    "id" : "https://drei558.github.io/Black_Beauty_Culture_IIIF_Project/manifests/manifest2.json",
+    "label" : {
+      "en" : [ "Three Glimpses of Black Femininity" ]
+    },
+    "type" : "Manifest"
   } ]
 }
